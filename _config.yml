@@ -55,11 +55,15 @@ kramdown:
 
 
 
-# Disqus settings
-#disqus_username: [your disqus username]
-
-# Netease settings
-#netease_comment: false
+# 评论系统：Gitalk(https://github.com/gitalk/gitalk)
+gitalk:
+  enable: true #是否开启Gitalk评论
+  clientID: d20e3af262f36c337faf #生成的clientID
+  clientSecret: 22a9008585b870ef8f5f26b11a3116b7d09dc952 #生成的clientSecret
+  repo: jptiancai.github.io #仓库名称
+  owner: jptiancai #github用户名
+  admin: jptiancai
+  distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
 
