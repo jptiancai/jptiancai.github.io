@@ -1,0 +1,8 @@
+# jekyll local test files
+_site/*
+
+# jekyll caches files
+.jekyll-cache/*
+
+# mac
+.DS_Store
