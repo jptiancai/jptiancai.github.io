@@ -1,14 +1,12 @@
 > 杀不死我的，只会让我更强。
 
-Hi，我是刚子，后端开发，开源软件爱好者。我曾被招募为人人网 · [应龙互动团队](http://renren.com/)· 后端工程师、[开心网](http://www.kaixin001.com/)  · 江花边月 · 后端钢铁战争团队、[猎豹移动](https://www.cmcm.com/) · AI工程团队 · [猎户星空](https://www.ainirobot.com/ 等。
+Java程序员，Go程序员，Python程序员，技术讲师/培训师，技术翻译人。先后供职于国内某大型软件公司和某创业型游戏设计公司。喜技术，爱分享；热爱开源，曾贡献了 [jenkins-cli](https://github.com/jenkins-zh/jenkins-cli) 工具框架；喜好写博客，纸上得来终觉浅，绝知此事要躬行。
 
-##### 翻译书籍
 
-- [游戏编程模式][2] · Robert Nystrom
+##### 翻译作品
 
-##### 推荐阅读书籍
+![](/img/about-translation.png)
 
-- [黑客与画家][1] · [美] 保罗·格雷厄姆
+《[游戏编程模式][2]》
 
-[1]: https://book.douban.com/subject/6021440/
-[2]: https://book.douban.com/subject/26880704//
+[2]: https://book.douban.com/subject/26880704/
