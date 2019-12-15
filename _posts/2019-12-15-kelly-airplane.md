@@ -8,7 +8,7 @@ header-mask: 0.3
 tags:
   - Reading notes
 ---
-> 全文字数：435个，阅读时长：约5分钟
+> 全文字数：3541个，阅读时长：约9分钟
 
 
 ![](/img/in-post/post-kelly-airplane/books-cover.jpg)
